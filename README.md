@@ -4,12 +4,6 @@ Um aplicativo web simples e elegante que gera conselhos aleatórios ao clicar em
 
 ---
 
-## 📌 Demonstração
-
-*(Adicione aqui uma imagem ou GIF do seu projeto rodando! Exemplo: `![Demonstração do Projeto](./assets/preview.png)`)*
-
----
-
 ## 🚀 Funcionalidades
 
 - 🎲 **Geração Instantânea:** Clique no botão para receber um novo conselho.
@@ -59,11 +53,11 @@ Este projeto consome a **Advice Slip API**, uma API pública gratuita que não e
 
 1. **Clone este repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/gerador-de-conselhos.git
+   git clone https://github.com/gabrielfaria09/API_Conselhos.git
    ```
 2. **Navegue até a pasta do projeto:**
    ```bash
-   cd gerador-de-conselhos
+   cd API_Conselhos
    ```
 3. **Abra o arquivo `index.html`:**
    - Basta dar dois cliques no arquivo `index.html` ou abri-lo usando a extensão **Live Server** no VS Code.
@@ -72,8 +66,8 @@ Este projeto consome a **Advice Slip API**, uma API pública gratuita que não e
 
 ## 📝 Licença
 
-Este projeto está sob a licença MIT. Sinta-se livre para usar, modificar e distribuir.
+Sinta-se livre para usar, modificar e distribuir.
 
 ---
 
-Desenvolvido com 💜 por [Seu Nome](https://github.com/seu-usuario)
+Desenvolvido com 💜 por [Gabriel Alves Faria](https://github.com/gabrielfaria09)
