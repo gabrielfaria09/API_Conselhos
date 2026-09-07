@@ -1,0 +1,43 @@
+:root{
+    --cor1: #CB997E;
+    --cor2: #DDBEA9;
+    --cor3: #FFE8D6;
+    --cor4: #B7B7A4;
+    --cor5: #A5A58D;
+    --cor6: #6B705C;
+}
+
+body{
+    font-size: 4rem;
+    letter-spacing: 0.2rem;
+    font-family: "Caacupe One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--cor1);
+    color: var(--cor6);
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#botao{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3rem;
+    letter-spacing: 0.2rem;
+    font-family: "Caacupe One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: var(--cor3);
+    color: var(--cor5);
+    border: 1px solid var(--cor6);
+    border-radius: 5px;
+}
